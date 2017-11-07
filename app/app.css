@@ -1,0 +1,10 @@
+@import "nativescript-theme-core/css/core.light.css";
+
+.icomoon {
+  font-family: 'icomoon';
+}
+
+.my-icon {
+  font-size: 140;
+  color: lightgray;
+}
